@@ -1,5 +1,3 @@
-print("Hello World")
-print("This a sample program!")
 #program to find factorial of a given number
 n=int(input("Enter any number: "))
 r=1
